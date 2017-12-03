@@ -1,0 +1,4 @@
+Name: Rex::Gentoo::XorgServer
+Description: Xorg Server service module
+Author: Jiří Špaček spaceji3@fit.cvut.cz
+License: MIT
